@@ -55,7 +55,7 @@ De implementarse el gobierno peruano tendría una distribución más estratégic
         </a>
         <br />
         <a href="#analisis" title="Analisis">📈</a> 
-        <a href="#github" title="Github">octocat</a>
+        <a href="#github" title="Github">:octocat:</a>
     </td>
     <td align="center">
         <a href="https://www.linkedin.com/in/alex-rivera-cruz-95a22592/">
@@ -64,7 +64,7 @@ De implementarse el gobierno peruano tendría una distribución más estratégic
         </a>
         <br />
         <a href="#analisis" title="Analisis">📊</a> 
-        <a href="#github" title="Github">:octocat:</a>
+        <a href="https://github.com/MartinAdolfoDelgadoHuayhua" title="Github">:octocat:</a>
     </td>
   </tr>
 </table>
