@@ -17,10 +17,10 @@ Un gerente de banco se siente incómodo con que cada vez más clientes abandonen
 De implementarse el gobierno peruano tendría una distribución más estratégica para los recursos humanos y financieros en el área de Salud mental.
 
 ## 🔗 Link importantes 
-1. [Pdf del articulo del proyecto]()
-1. [Pdf de exposicion del proyecto]()
-2. [Link de la data del proyecto](https://www.kaggle.com/sakshigoyal7/credit-card-customers?select=BankChurners.csv)
-3. [Notebook del proyecto]()
+1. [Pdf del articulo del proyecto](https://github.com/MayumyCH/credit_card_project_pyhton/blob/main/proyecto_articulo.pdf)
+2. [Pdf de exposicion del proyecto](https://github.com/MayumyCH/credit_card_project_pyhton/blob/main/proyecto_exposicion_ppt.pdf)
+3. [Link de la data del proyecto](https://www.kaggle.com/sakshigoyal7/credit-card-customers?select=BankChurners.csv)
+4. [Notebook del proyecto](https://github.com/MayumyCH/credit_card_project_pyhton/blob/main/proyecto_notebook.ipynb)
 
 
 ## 💻 Contribuidores 
@@ -29,16 +29,16 @@ De implementarse el gobierno peruano tendría una distribución más estratégic
   <tr>
     <td align="center">
         <a href="https://www.linkedin.com/in/angel-jorge-salazar-7b3bb614b/">
-            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFAKyY-otOvfw/profile-displayphoto-shrink_200_200/0/1556694909105?e=1618444800&v=beta&t=atX0ftmFfrrspYwBsRRm3VKdsjSKtrhjqgO93kwxg9g" width="100px;" alt=""/>
+            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFAKyY-otOvfw/profile-displayphoto-shrink_200_200/0/1556694909105?e=1618444800&v=beta&t=atX0ftmFfrrspYwBsRRm3VKdsjSKtrhjqgO93kwxg9g" width="100px;" alt="" target="_blank"/>
             <br /><sub><b>Angel Jorge</b></sub>
         </a>
         <br />
         <a href="#analisis" title="Analisis">📈</a> 
-        <a href="https://github.com/ANGELJSS" title="Github">:octocat:</a>
+        <a href="https://github.com/ANGELJSS" target="_blank" title="Github">:octocat:</a>
     </td>
     <td align="center">
         <a href="https://www.linkedin.com/in/heydy-mayumy-carrasco-huaccha-3876bb137/">
-            <img src="https://media-exp1.licdn.com/dms/image/C5603AQEVigsrEVOAhA/profile-displayphoto-shrink_800_800/0/1522775622504?e=1618444800&v=beta&t=rQYxGMVl2IUKk-PJVJLmYpyYE60Eo8lUglRhKTpnnKc" width="100px;" alt=""/>
+            <img src="https://media-exp1.licdn.com/dms/image/C5603AQEVigsrEVOAhA/profile-displayphoto-shrink_800_800/0/1522775622504?e=1618444800&v=beta&t=rQYxGMVl2IUKk-PJVJLmYpyYE60Eo8lUglRhKTpnnKc" target="_blank" width="100px;" alt=""/>
             <br /><sub><b>Mayumy Carrasco</b> </sub>
         </a>
         <br />
@@ -47,21 +47,21 @@ De implementarse el gobierno peruano tendría una distribución más estratégic
     </td>
     <td align="center">
         <a href="https://www.linkedin.com/in/martindelhu13/">
-            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFftZEkmTtNOA/profile-displayphoto-shrink_200_200/0/1576931688043?e=1618444800&v=beta&t=RaAE4cTO_YwdEepyYS_8J3kuB6DdtPffeywFonNTls8" width="100px;" alt=""/>
+            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFftZEkmTtNOA/profile-displayphoto-shrink_200_200/0/1576931688043?e=1618444800&v=beta&t=RaAE4cTO_YwdEepyYS_8J3kuB6DdtPffeywFonNTls8" target="_blank" width="100px;" alt=""/>
             <br /><sub><b>Martin Delgado </b> </sub>
         </a>
         <br />
         <a href="#analisis" title="Analisis">📈</a> 
-        <a href="https://github.com/MartinAdolfoDelgadoHuayhua" title="Github">:octocat:</a>
+        <a href="https://github.com/MartinAdolfoDelgadoHuayhua" target="_blank" title="Github">:octocat:</a>
     </td>
     <td align="center">
         <a href="https://www.linkedin.com/in/alex-rivera-cruz-95a22592/">
-            <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHJdvDwfZtTAA/profile-displayphoto-shrink_200_200/0/1604855562302?e=1618444800&v=beta&t=HwGQBrnolg_b51zV8xW7ALuaCMgrtqhuAve3CZ27YcI" width="100px;" alt=""/>
+            <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHJdvDwfZtTAA/profile-displayphoto-shrink_200_200/0/1604855562302?e=1618444800&v=beta&t=HwGQBrnolg_b51zV8xW7ALuaCMgrtqhuAve3CZ27YcI" target="_blank" width="100px;" alt=""/>
             <br /><sub><b>Alex Rivera</b> </sub>
         </a>
         <br />
         <a href="#analisis" title="Analisis">📊</a> 
-        <a href="https://github.com/alexriveracruz4" title="Github">:octocat:</a>
+        <a href="https://github.com/alexriveracruz4" target="_blank" title="Github">:octocat:</a>
     </td>
   </tr>
 </table>
