@@ -6,22 +6,19 @@ _En este proyecto se propone el análisis de la data proporcionada por Kaggle; s
 
 ## 🔎 Comprensión del Negocio 
 
-Un gerente de banco se siente incómodo con que cada vez más clientes abandonen sus servicios de tarjeta de crédito. Realmente agradecerían que alguien pudiera predecir quién se verá afectado para pode
-
-r acudir de manera proactiva al cliente para brindarle mejores servicios y cambiar las decisiones del cliente en la dirección opuesta.
+Un gerente de banco se siente incómodo con que cada vez más clientes abandonen sus servicios de tarjeta de crédito. Realmente agradecerían que alguien pudiera predecir quién se verá afectado para poder acudir de manera proactiva al cliente para brindarle mejores servicios y cambiar las decisiones del cliente en la dirección opuesta.
 
 ## 🧠 Problema
 
-```
 - En qué medida un modelo de predicción de fuga ayudará al banco en la retención de clientes.
-
 - El consecutivo aumento de casos de desercion de servicios de tarjeta de credito en el banco
-```
+
 ## 💡 Hipótesis  
 De implementarse el gobierno peruano tendría una distribución más estratégica para los recursos humanos y financieros en el área de Salud mental.
 
 ## 🔗 Link importantes 
 1. [Pdf del articulo del proyecto]()
+1. [Pdf de exposicion del proyecto]()
 2. [Link de la data del proyecto](https://www.kaggle.com/sakshigoyal7/credit-card-customers?select=BankChurners.csv)
 3. [Notebook del proyecto]()
 
@@ -37,7 +34,7 @@ De implementarse el gobierno peruano tendría una distribución más estratégic
         </a>
         <br />
         <a href="#analisis" title="Analisis">📈</a> 
-        <a href="#github" title="Github">:octocat:</a>
+        <a href="https://github.com/ANGELJSS" title="Github">:octocat:</a>
     </td>
     <td align="center">
         <a href="https://www.linkedin.com/in/heydy-mayumy-carrasco-huaccha-3876bb137/">
@@ -55,7 +52,7 @@ De implementarse el gobierno peruano tendría una distribución más estratégic
         </a>
         <br />
         <a href="#analisis" title="Analisis">📈</a> 
-        <a href="#github" title="Github">:octocat:</a>
+        <a href="https://github.com/MartinAdolfoDelgadoHuayhua" title="Github">:octocat:</a>
     </td>
     <td align="center">
         <a href="https://www.linkedin.com/in/alex-rivera-cruz-95a22592/">
@@ -64,7 +61,7 @@ De implementarse el gobierno peruano tendría una distribución más estratégic
         </a>
         <br />
         <a href="#analisis" title="Analisis">📊</a> 
-        <a href="https://github.com/MartinAdolfoDelgadoHuayhua" title="Github">:octocat:</a>
+        <a href="https://github.com/alexriveracruz4" title="Github">:octocat:</a>
     </td>
   </tr>
 </table>
