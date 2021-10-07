@@ -13,8 +13,6 @@ Un gerente de banco se siente incómodo con que cada vez más clientes abandonen
 - En qué medida un modelo de predicción de fuga ayudará al banco en la retención de clientes.
 - El consecutivo aumento de casos de desercion de servicios de tarjeta de credito en el banco
 
-## 💡 Hipótesis  
-De implementarse el gobierno peruano tendría una distribución más estratégica para los recursos humanos y financieros en el área de Salud mental.
 
 ## 🔗 Link importantes 
 1. [Pdf del articulo del proyecto](https://github.com/MayumyCH/credit_card_project_pyhton/blob/main/proyecto_articulo.pdf)
