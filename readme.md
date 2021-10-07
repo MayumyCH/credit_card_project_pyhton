@@ -27,7 +27,7 @@ Un gerente de banco se siente incómodo con que cada vez más clientes abandonen
   <tr>
     <td align="center">
         <a href="https://www.linkedin.com/in/angel-jorge-salazar-7b3bb614b/">
-            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFAKyY-otOvfw/profile-displayphoto-shrink_200_200/0/1556694909105?e=1618444800&v=beta&t=atX0ftmFfrrspYwBsRRm3VKdsjSKtrhjqgO93kwxg9g" width="100px;" alt="" target="_blank"/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/credit_card_project_pyhton/main/members/angel.jpg" width="100px;" alt="" target="_blank"/>
             <br /><sub><b>Angel Jorge</b></sub>
         </a>
         <br />
@@ -35,8 +35,8 @@ Un gerente de banco se siente incómodo con que cada vez más clientes abandonen
         <a href="https://github.com/ANGELJSS" target="_blank" title="Github">:octocat:</a>
     </td>
     <td align="center">
-        <a href="https://www.linkedin.com/in/heydy-mayumy-carrasco-huaccha-3876bb137/">
-            <img src="https://media-exp1.licdn.com/dms/image/C5603AQEVigsrEVOAhA/profile-displayphoto-shrink_800_800/0/1522775622504?e=1618444800&v=beta&t=rQYxGMVl2IUKk-PJVJLmYpyYE60Eo8lUglRhKTpnnKc" target="_blank" width="100px;" alt=""/>
+        <a href="https://www.linkedin.com/in/heydy-mayumy-carrasco-huaccha/">
+            <img src="https://raw.githubusercontent.com/MayumyCH/credit_card_project_pyhton/main/members/heydy.jpg" target="_blank" width="100px;" alt=""/>
             <br /><sub><b>Mayumy Carrasco</b> </sub>
         </a>
         <br />
@@ -45,7 +45,7 @@ Un gerente de banco se siente incómodo con que cada vez más clientes abandonen
     </td>
     <td align="center">
         <a href="https://www.linkedin.com/in/martindelhu13/">
-            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFftZEkmTtNOA/profile-displayphoto-shrink_200_200/0/1576931688043?e=1618444800&v=beta&t=RaAE4cTO_YwdEepyYS_8J3kuB6DdtPffeywFonNTls8" target="_blank" width="100px;" alt=""/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/credit_card_project_pyhton/main/members/martin.jpg" target="_blank" width="100px;" alt=""/>
             <br /><sub><b>Martin Delgado </b> </sub>
         </a>
         <br />
@@ -54,7 +54,7 @@ Un gerente de banco se siente incómodo con que cada vez más clientes abandonen
     </td>
     <td align="center">
         <a href="https://www.linkedin.com/in/alex-rivera-cruz-95a22592/">
-            <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHJdvDwfZtTAA/profile-displayphoto-shrink_200_200/0/1604855562302?e=1618444800&v=beta&t=HwGQBrnolg_b51zV8xW7ALuaCMgrtqhuAve3CZ27YcI" target="_blank" width="100px;" alt=""/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/credit_card_project_pyhton/main/members/alex.jpg" target="_blank" width="100px;" alt=""/>
             <br /><sub><b>Alex Rivera</b> </sub>
         </a>
         <br />
